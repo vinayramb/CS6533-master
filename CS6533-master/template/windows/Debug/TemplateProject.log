@@ -1,0 +1,8 @@
+﻿  glsupport.cpp
+  main.cpp
+c:\vinay\nyu\fall '16\cs6533-master\cs6533-master\template\windows\main.cpp(112): warning C4305: '+=': truncation from 'double' to 'float'
+c:\vinay\nyu\fall '16\cs6533-master\cs6533-master\template\windows\main.cpp(115): warning C4305: '-=': truncation from 'double' to 'float'
+c:\vinay\nyu\fall '16\cs6533-master\cs6533-master\template\windows\main.cpp(118): warning C4305: '+=': truncation from 'double' to 'float'
+c:\vinay\nyu\fall '16\cs6533-master\cs6533-master\template\windows\main.cpp(121): warning C4305: '-=': truncation from 'double' to 'float'
+  TemplateProject.vcxproj -> C:\Vinay\NYU\Fall '16\CS6533-master\CS6533-master\template\windows\Debug\TemplateProject.exe
+  TemplateProject.vcxproj -> C:\Vinay\NYU\Fall '16\CS6533-master\CS6533-master\template\windows\Debug\TemplateProject.pdb (Full PDB)
